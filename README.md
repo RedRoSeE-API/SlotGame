@@ -1,4 +1,4 @@
-1. Run "npm install" or "yarn install". For the creation ofthe project is used yarn.
+1. Run "npm install" or "yarn install". For the creation of the project is used yarn.
 2. After all dependencies have been installed, there are 3 commands available:
     - npm build 
     - npm run
